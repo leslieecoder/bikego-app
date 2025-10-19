@@ -13,8 +13,8 @@ Developed with the help of **Amp**, Sourcegraph’s AI coding agent, this projec
 ---
 
 ## 📸 Preview
-![App Screenshot](./screenshot.png)  
-*(Add a screenshot or animated GIF of your app here to show what it looks like in action.)*
+![App Screenshot](./src/assets/preview.png)  
+
 
 ---
 
