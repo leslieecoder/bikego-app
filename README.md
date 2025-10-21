@@ -7,8 +7,7 @@ Developed with the help of **Amp**, Sourcegraph’s AI coding agent, this projec
 ---
 
 ## 🔗 Live Demo
-[👉 View the Live Demo](https://your-demo-link.com)  
-*(Replace this link once your app is deployed — e.g., Netlify, Vercel, or GitHub Pages)*
+[👉 View the Live Demo](https://bikego-biketracker.netlify.app/)
 
 ---
 
@@ -19,8 +18,7 @@ Developed with the help of **Amp**, Sourcegraph’s AI coding agent, this projec
 ---
 
 ## 🗺️ Features
-- 🧭 **Track and visualize** bike routes on an interactive Mapbox map  
-- 📍 **Add and view markers** for start and end points  
+- 🧭 **Track and visualize** bike routes on an interactive Mapbox map    
 - ⚡ **Fast development setup** using Vite  
 - 🧠 **Type-safe code** with TypeScript  
 - 🤖 **AI-assisted development** with Amp for real-time coding support  
